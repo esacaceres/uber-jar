@@ -1,5 +1,3 @@
-> Workshop 1 @ CamundaCon 2019
-
 In this Workshop you learn how to use Spring Boot to create a self-contained Camunda BPM Workflow application.
 
 In a nutshell, you are guided through the following topics:
