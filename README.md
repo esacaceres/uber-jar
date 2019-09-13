@@ -9,12 +9,6 @@ In a nutshell, you are guided through the following topics:
 * Customizing the Webapps
 * Securing the REST API
 
-## Prerequisites
-
-> ⚠️ **Heads-Up!**
->
-> Make sure to fulfill the prerequisites before you attend the workshop!
-
 ### Step 1: Download & Setup
 * Docker for [Mac](https://download.docker.com/mac/stable/31259/Docker.dmg) or [Windows](https://download.docker.com/win/stable/31259/Docker%20for%20Windows%20Installer.exe)
 * [Java JDK](https://jdk.java.net/12/) (8+)
